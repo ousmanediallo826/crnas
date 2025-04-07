@@ -42,3 +42,4 @@ next-env.d.ts
 auth.ts
 next-env.d.ts
 app/api
+env.local
